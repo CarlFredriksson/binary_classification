@@ -1,4 +1,4 @@
-Logistic Regression - linear data> J_train: 0.52931154, J_test: 0.5460787
-NN Classification - linear data> J_train: 0.5123865, J_test: 0.5393496
-Logistic Regression - non-linear data> J_train: 0.5799827, J_test: 0.6062996
-NN Classification - non-linear data> J_train: 0.41521233, J_test: 0.43761855
+Logistic Regression - linear data> J_train: 0.20938264, J_test: 0.24339212
+NN Classification - linear data> J_train: 0.19785614, J_test: 0.24523167
+Logistic Regression - non-linear data> J_train: 0.5892237, J_test: 0.5800235
+NN Classification - non-linear data> J_train: 0.004804577, J_test: 0.121413246
